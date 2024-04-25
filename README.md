@@ -20,7 +20,7 @@ ft_printf is a project at 42 that involves reimplementing the C standard library
 
 To clone the repository use:
 ```bash
-git clone https://github.com/yourusername/ft_printf.git
+git clone https://github.com/moop250/ft_printf.git
 ```
 
 Compilation & cleanup:
